@@ -13,7 +13,7 @@
   "signupUrl": "",
   "settingsUrl": "",
   "staff": [],
-  "facebookSignin": true,
+  "facebookSignin": false,
   "auth": {
     "basic": {
       "username": "",
